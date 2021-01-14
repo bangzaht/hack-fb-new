@@ -10,8 +10,15 @@ pip2 install mechanize && pip2 install requests
 
 git clone https://github.com/bangzaht/hack-fb-new
 
+cd hack-fb-new
+
+sh Brutenew.sh
+
 Tulis perbaris ya
 
-Enter satu satu:))
+Enter satu satu
 
 # Thx to:art
+Expect us!
+
+# Stay be humble:)
