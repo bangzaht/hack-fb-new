@@ -7,7 +7,7 @@ cy='\033[36;1m' #cyan
 me='\033[31;1m' #merah
 pu='\033[37;1m' #putih
 ku='\033[33;1m' #kuning
-# RECODE IZIN
+# RECODE:XCLOWNS
 echo
 echo
 echo
@@ -15,7 +15,7 @@ echo $i"["$bi"•"$i"]"$me"─────────────────�
 echo $i" |"$cy"     ANONYMOUS REVOLUTION TEAM"$i"         |"
 echo $i" |"$me"─────────────────────────────────────────────"$i"|"
 echo $i" |"$pu" AUTHOR :"$ku" BANGZAHT  [XcLoWns]"$i"          |"
-echo $i" |"$pu" FACEBOOK :"$ku" Riski Darmawan"$i"                   |"
+echo $i" |"$pu" FACEBOOK :"$ku" XCLOWNS"$i"                   |"
 echo $i" |"$pu" THANKS TO :"$cy"~ [MR.Grft] [MR.Bagus] [MR.Gans]"$i"  |"
 echo $i" |"$cy"            ~ [xclowns] [%xclowns%] [xclowns]"$i" |"
 echo $i" |"$pu" Contack WhatsApp :"$ku" 08587203269"$i"             |"
